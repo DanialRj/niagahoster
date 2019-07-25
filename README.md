@@ -1,4 +1,4 @@
-# niagahoster
+# test case 2
 Test Number 2
 
 this test using laravel 5.8
